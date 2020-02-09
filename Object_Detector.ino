@@ -1,5 +1,5 @@
 /* Defining Pins*/
-int buzzOut = 8;
+int buzzOut = 8; 
 int echo = 9; 
 int trig = 10;
 int greenLED = 7;
