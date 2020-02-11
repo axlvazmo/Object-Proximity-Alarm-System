@@ -3,9 +3,11 @@
 Personal Project:
 
 Description:
-  This project is a sensor that contains a visual and auditive alarm that displays when an object is at a certain distance
+
+This project is a sensor that contains a visual and auditive alarm that displays when an object is at a certain distance
 
 Materials:
+  
   1 Arduino uno rev3
  
   1 Ultrasonic sensor
